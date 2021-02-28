@@ -3,8 +3,11 @@
 ~~这个名字懂的都懂~~
 
 项目使用的主要几个开源项目
+
 [mamoe/mirai]
+
 [mamoe/mirai-console]
+
 [mamoe/mirai-api-http]
 
 
