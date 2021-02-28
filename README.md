@@ -4,11 +4,11 @@
 
 项目使用的主要几个开源项目
 
-[mamoe/mirai]
+[mamoe/mirai](https://github.com/mamoe/mirai)
 
-[mamoe/mirai-console]
+[mamoe/mirai-console](https://github.com/mamoe/mirai-console)
 
-[mamoe/mirai-api-http]
+[mamoe/mirai-api-http](https://github.com/mamoe/mirai-api-http)
 
 
 ## 0.写在前面
