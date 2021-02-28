@@ -2,6 +2,12 @@
 
 ~~这个名字懂的都懂~~
 
+项目使用的主要几个开源项目
+[mamoe/mirai]
+[mamoe/mirai-console]
+[mamoe/mirai-api-http]
+
+
 ## 0.写在前面
 我会从需求，效果和如何实现三个方面来介绍
 - 需求：
