@@ -78,10 +78,17 @@ webqq我真没用过，别的啥功能我也不知道
 ## 1.后端
 为什么先写后端呢，因为前端太简单了，而且需要看后端能留出什么样的api
 
-好了不知道写啥了
+使用js，利用XMLHTTTPRequest链接mirai-http-api
+
+
 
 ## 2.前端
 能看就行
 
 ## TODO
-- [ ] 阅读所有有用的Mirai文档
+- [x] 阅读所有有用的Mirai文档
+- [ ] 用js实现基本mirai-http-api
+- [ ] 加入async实现Sending()
+- [ ] 使用websocket通讯/手动/自动刷新接收消息
+- [ ] 用js实现所有api
+- [ ] 多账号，多客户端使用
