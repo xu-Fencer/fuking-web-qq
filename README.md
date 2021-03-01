@@ -63,27 +63,31 @@ linux qq又做的特别拉（恼，像复刻了10年的东西一样
 
 仅供聊天，没有其他无聊功能
 
-webqq我真没用过，别的啥功能我也不知道
+（所有功能都基于http-api，它没有的我也不可能有
+
 
 - 实现
 
-基于Mirai，使用kotlin
+基于Mirai，使用js+http SDK
 
-前端不知道
+前端js+html
 
-后端不知道
+后端mirai-http-api
 
 （好家伙这README就是来讲故事了
 
 ## 1.后端
-为什么先写后端呢，因为前端太简单了，而且需要看后端能留出什么样的api
+~~为什么先写后端呢，因为前端太简单了，而且需要看后端能留出什么样的api~~
 
-使用js，利用XMLHTTTPRequest链接mirai-http-api
+突然意识到后端不需要我写，有大佬开发了http-api
 
+所有调用全部基于http-api
 
 
 ## 2.前端
 能看就行
+
+使用js，利用XMLHTTTPRequest链接mirai-http-api
 
 ## TODO
 - [x] 阅读所有有用的Mirai文档
