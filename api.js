@@ -1,4 +1,4 @@
-var sessionKey,qqNum=1205652841,host="http://81.70.62.113:66";
+var sessionKey,qqNum,host="";
 var xmlHttp; //define XMLHttpRequest object
 function showMsg(msg){
     console.log(msg);
